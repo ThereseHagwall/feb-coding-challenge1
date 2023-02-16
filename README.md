@@ -1,6 +1,6 @@
 # feb-coding-challenge1
 
-This is a challange from Staffan Sollins discord server. 
+This is a challange from Staffan Sollins discord server, KodHubben. 
 The main task in summary:
 - Create github account
 - Create repo
